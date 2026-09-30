@@ -1,0 +1,35 @@
+# Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+
+# Build
+build/
+*/build/
+
+# Android
+.cxx/
+.externalNativeBuild/
+captures/
+
+# OS
+.DS_Store
+
+# Signing keys - NEVER upload
+*.jks
+*.keystore
+
+# Logs
+*.log
+# Crash logs
+hs_err_pid*.log
+replay_pid*.log
+# Android Studio / Kotlin generated files
+.artifacts/
+.kotlin/
+# Local Gradle distribution
+gradle-*.zip
+# Release artifacts
+app/release/
+app/backup-v1.0.0-pilote/

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93390747822",
+    "project_id": "maticodz",
+    "storage_bucket": "maticodz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93390747822:android:bb879d189d4894f13f553f",
+        "android_client_info": {
+          "package_name": "com.matico.dz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQen5noNrhACIZjpXRtPx7PA5vayCmCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
